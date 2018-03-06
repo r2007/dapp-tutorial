@@ -39,5 +39,5 @@ $ truffle version
 Truffle v4.1.0 (core: 4.1.0)
 Solidity v0.4.19 (solc-js)
 ```
-# 安装以太本地测试链（TODO）
-http://truffleframework.com/ganache
+# 安装以太本地测试链
+在浏览器打开[http://truffleframework.com/ganache](http://truffleframework.com/ganache)页面，点击下载按钮。下载完毕后运行`chmod a+x 刚刚下载的文件`,确保有可以执行的权限。然后可以直接在文件管理器双击运行，也可以在控制台运行`./下载的文件`。
